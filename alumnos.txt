@@ -1,0 +1,6 @@
+Grupo	Apellidos	        Nombres	            email	                        celular
+3	    OSORIO CAMPOS	    MELLANY SKARLY	    mellany.osorio@outlook.com	     941510596
+3	    GAMARRA RUPAY	    RICHARD DUSTIN	    richarger@live.com	             955123258
+3	    BONILLA RODRÍGUEZ	YURI VANNESA	    yuribonilla92@gmail.com	         ----
+3	    MIRANDA GARAY	    GRECIA MAGALI	    grecia.miranda.garay@gmail.com	 947347404
+3	    BARDALES BRUNO	    EDUARDO ANTONIO	    ebardalesbruno@gmail.com	     927691113
